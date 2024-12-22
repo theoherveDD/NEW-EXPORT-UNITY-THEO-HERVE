@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized Drums
+* source:	https://sketchfab.com/3d-models/stylized-drums-d8c394f2fcd14090883e5168d370a845
+* author:	Michał Solarek (https://sketchfab.com/misiek13)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized Drums" (https://sketchfab.com/3d-models/stylized-drums-d8c394f2fcd14090883e5168d370a845) by Michał Solarek (https://sketchfab.com/misiek13) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

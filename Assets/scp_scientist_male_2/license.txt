@@ -1,0 +1,11 @@
+Model Information:
+* title:	SCP Scientist Male 2
+* source:	https://sketchfab.com/3d-models/scp-scientist-male-2-c281bdc259ae46ba88e65ddb81e6a10a
+* author:	Maxime66410 (https://sketchfab.com/Maxime66410)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SCP Scientist Male 2" (https://sketchfab.com/3d-models/scp-scientist-male-2-c281bdc259ae46ba88e65ddb81e6a10a) by Maxime66410 (https://sketchfab.com/Maxime66410) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
